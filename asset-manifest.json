@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MelbDatathon-2020/static/css/main.5f361e03.chunk.css",
+    "main.js": "/MelbDatathon-2020/static/js/main.d56e35e1.chunk.js",
+    "main.js.map": "/MelbDatathon-2020/static/js/main.d56e35e1.chunk.js.map",
+    "runtime-main.js": "/MelbDatathon-2020/static/js/runtime-main.42bc9f8e.js",
+    "runtime-main.js.map": "/MelbDatathon-2020/static/js/runtime-main.42bc9f8e.js.map",
+    "static/js/2.e5f0e2ab.chunk.js": "/MelbDatathon-2020/static/js/2.e5f0e2ab.chunk.js",
+    "static/js/2.e5f0e2ab.chunk.js.map": "/MelbDatathon-2020/static/js/2.e5f0e2ab.chunk.js.map",
+    "index.html": "/MelbDatathon-2020/index.html",
+    "precache-manifest.0e3261da3690eb6079ba3f7b07cf6ce0.js": "/MelbDatathon-2020/precache-manifest.0e3261da3690eb6079ba3f7b07cf6ce0.js",
+    "service-worker.js": "/MelbDatathon-2020/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/MelbDatathon-2020/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e5f0e2ab.chunk.js.LICENSE.txt": "/MelbDatathon-2020/static/js/2.e5f0e2ab.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/MelbDatathon-2020/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42bc9f8e.js",
+    "static/js/2.e5f0e2ab.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d56e35e1.chunk.js"
+  ]
+}
