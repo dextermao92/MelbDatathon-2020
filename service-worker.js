@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MelbDatathon-2020/precache-manifest.c50235583178d368ae3f6c3bceecd2e3.js"
+  "/MelbDatathon-2020/precache-manifest.e811eef91842661080c6f751c9a1dd05.js"
 );
 
 self.addEventListener('message', (event) => {
