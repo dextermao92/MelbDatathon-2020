@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3cb74021c9f50bd71b7c4c37cfd5da43",
+    "revision": "d56a30c3c61faafb188e1b6690a82488",
     "url": "/MelbDatathon-2020/index.html"
   },
   {
-    "revision": "425ff4c64dbdea40d849",
+    "revision": "c42236bbd16d7490165c",
     "url": "/MelbDatathon-2020/static/css/main.53a26d26.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MelbDatathon-2020/static/js/2.b9581592.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "425ff4c64dbdea40d849",
-    "url": "/MelbDatathon-2020/static/js/main.2525f246.chunk.js"
+    "revision": "c42236bbd16d7490165c",
+    "url": "/MelbDatathon-2020/static/js/main.8d3b813b.chunk.js"
   },
   {
     "revision": "87429134d486a612aef8",
