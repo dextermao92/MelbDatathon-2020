@@ -1,4 +1,4 @@
-export const root = '/MelbDatathon-2020';
+export const root = process.env.PUBLIC_URL;
 
 export const vids = {
     video: '/videos/video.mp4'
