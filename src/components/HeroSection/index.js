@@ -8,9 +8,9 @@ function HeroSection(){
     const Click=()=>window.location.href='home';
     return(
         <div className='hero-container'>
-            <video src={root + vids.video2} autoPlay loop muted />
-            <h1>ssss</h1>
-            <p>ssssss</p>
+            <video src={root + vids.video} autoPlay loop muted />
+            <h1>M-stars</h1>
+            <p>Melbourne Datathon 2020</p>
             <div className='hero-btns'>
                 <Button className='btns' 
                         buttonStyle='btn--outline' 

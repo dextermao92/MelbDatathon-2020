@@ -1,8 +1,7 @@
 export const root = '/MelbDatathon-2020';
 
 export const vids = {
-    video1: '/videos/video-1.mp4',
-    video2: '/videos/video-2.mp4'
+    video: '/videos/video.mp4'
 }
 
 export const imgs = {
